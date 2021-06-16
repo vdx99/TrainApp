@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#08FF00</color> <!--Main Bar CL -->
+    <color name="colorPrimaryDark">#101C0E</color>  <!--Status Bar CL -->
+    <color name="colorAccent">#2EF601</color>
+    <color name="colorBackground">#86071205</color>
+    <color name="colorStart">#C3000000</color>
+    <color name="red">#E94252</color>
+</resources>

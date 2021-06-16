@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TrainApp</string>
+
+    <string-array name="levels">
+        <item>Beginner</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>Push</item>
+        <item>Pull</item>
+        <item>Cardio</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>Short (25min)</item>
+        <item>Long (60min)</item>
+    </string-array>
+</resources>
