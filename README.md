@@ -1,1 +1,2 @@
+#TrainApp
 TrainApp is an application created as an academic project (WPAM). It is programmed in Kotlin using Android Studio. The app allows users to select calisthenics training routines based on their personal preferences and capabilities.
